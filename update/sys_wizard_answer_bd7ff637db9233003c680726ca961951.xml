@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New mala debriefing</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>mala debriefing</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e0a086b7db123300f3ef1560399619c8</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 16:42:20</sys_created_on>
+        <sys_id>bd7ff637db9233003c680726ca961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mala debriefing</sys_name>
+        <sys_package display_value="MALA" source="x_snc_mala">5a9db2b3db9233003c680726ca96198a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MALA">5a9db2b3db9233003c680726ca96198a</sys_scope>
+        <sys_update_name>sys_wizard_answer_bd7ff637db9233003c680726ca961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 16:42:20</sys_updated_on>
+        <table/>
+        <target_url>x_snc_mala_mala_debriefing.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

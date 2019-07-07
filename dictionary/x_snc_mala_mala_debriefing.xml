@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="mala debriefing" max_length="40" name="x_snc_mala_mala_debriefing" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Debriefing Name" max_length="40" name="debriefing_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Debriefing Type" max_length="40" name="debriefing_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="None-Operational" value="2"/>
+                <element inactive_on_update="false" label="Operational " value="1"/>
+                <element inactive_on_update="false" label="Operational-Base" value="3"/>
+                <element inactive_on_update="false" label="System Failure" value="4"/>
+            </choice>
+        </element>
+        <element choice="1" label="Opening Unit" max_length="40" name="opening_unit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ofek" sequence="10" value="100"/>
+                <element inactive_on_update="false" label="Mamram" sequence="20" value="20"/>
+            </choice>
+        </element>
+    </element>
+</database>

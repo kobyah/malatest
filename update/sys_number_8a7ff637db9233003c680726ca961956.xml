@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_mala_mala_debriefing">x_snc_mala_mala_debriefing</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MAL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 16:42:20</sys_created_on>
+        <sys_id>8a7ff637db9233003c680726ca961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MAL</sys_name>
+        <sys_package display_value="MALA" source="x_snc_mala">5a9db2b3db9233003c680726ca96198a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MALA">5a9db2b3db9233003c680726ca96198a</sys_scope>
+        <sys_update_name>sys_number_8a7ff637db9233003c680726ca961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 16:42:20</sys_updated_on>
+    </sys_number>
+</record_update>

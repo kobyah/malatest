@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="debriefing_type" table="x_snc_mala_mala_debriefing" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>debriefing_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operational </label>
+            <language>en</language>
+            <name>x_snc_mala_mala_debriefing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-04 16:42:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>427ff637db9233003c680726ca96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-04 16:42:21</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>debriefing_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None-Operational</label>
+            <language>en</language>
+            <name>x_snc_mala_mala_debriefing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-04 16:42:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a7ff637db9233003c680726ca96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-04 16:42:21</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>debriefing_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operational-Base</label>
+            <language>en</language>
+            <name>x_snc_mala_mala_debriefing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-04 16:42:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a7ff637db9233003c680726ca961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-04 16:42:21</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>debriefing_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Failure</label>
+            <language>en</language>
+            <name>x_snc_mala_mala_debriefing</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-04 16:42:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a7ff637db9233003c680726ca961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-04 16:42:21</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>debriefing_type</element>
+            <name>x_snc_mala_mala_debriefing</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-04 16:42:21</sys_created_on>
+            <sys_id>9e7ff637db9233003c680726ca96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>debriefing_type</sys_name>
+            <sys_package display_value="MALA" source="x_snc_mala">5a9db2b3db9233003c680726ca96198a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MALA">5a9db2b3db9233003c680726ca96198a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_mala_mala_debriefing_debriefing_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-04 16:42:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
